@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/erionddejesus/GMDEVAI_SY2022-2023_BTIE1_DE-JESUS.git
+	fetch = +refs/*:refs/*
+	mirror = true
